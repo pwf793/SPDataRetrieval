@@ -14,11 +14,11 @@ namespace SMDataRetrieval.Models
 		}
 
 		public DbSet<SMDataRetrieval.Models.CityNames> CityNames { get; set; }
-		public DbSet<SMDataRetrieval.Models.Country> Country { get; set; }
+		public DbSet<SMDataRetrieval.Models.country> country { get; set; }
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
-			modelBuilder.HasDefaultSchema("world");
+			//modelBuilder.HasDefaultSchema("world");
 		}
     }
 }
