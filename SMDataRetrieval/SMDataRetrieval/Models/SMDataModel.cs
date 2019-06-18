@@ -26,7 +26,7 @@ namespace SMDataRetrieval.Models
 	Password: dKmyEEX3
 	*/
 
-	[Table("City")]
+	[Table("city")]
 	public class CityNames
 	{
 //ID Name  CountryCode District  Population
@@ -40,7 +40,7 @@ namespace SMDataRetrieval.Models
 	}
 
 
-	public class Country
+	public class country
 	{
 //Code Name  Continent     Region    SurfaceArea IndepYear Population LifeExpectancy GNP    GNPOld    LocalName GovernmentForm                                HeadOfState Capital   Code2
 //ABW  Aruba North America Caribbean 193.00	    NULL	    103000	78.4	          828.00 793.00	  Aruba     Nonmetropolitan Territory of The Netherlands  Beatrix     129	     AW
