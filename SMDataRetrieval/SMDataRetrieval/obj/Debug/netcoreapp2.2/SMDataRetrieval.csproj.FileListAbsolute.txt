@@ -1,0 +1,14 @@
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\bin\Debug\netcoreapp2.2\SMDataRetrieval.deps.json
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\bin\Debug\netcoreapp2.2\SMDataRetrieval.runtimeconfig.json
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\bin\Debug\netcoreapp2.2\SMDataRetrieval.runtimeconfig.dev.json
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\bin\Debug\netcoreapp2.2\SMDataRetrieval.dll
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\bin\Debug\netcoreapp2.2\SMDataRetrieval.pdb
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.csprojAssemblyReference.cache
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.csproj.CoreCompileInputs.cache
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.RazorAssemblyInfo.cache
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.RazorAssemblyInfo.cs
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.AssemblyInfoInputs.cache
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.AssemblyInfo.cs
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.RazorTargetAssemblyInfo.cache
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.dll
+D:\pfitz\Source\Repos\SMDataRetrieval\SMDataRetrieval\obj\Debug\netcoreapp2.2\SMDataRetrieval.pdb
