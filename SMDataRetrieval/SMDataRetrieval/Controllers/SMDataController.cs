@@ -52,9 +52,9 @@ namespace SMDataRetrieval.Controllers
 		// GET: api/CountryByRegion
 		//Return list of country name, population, LifeExpentancy by Region
 		[HttpGet("{Regn}")]
-		public async Task<ActionResult<IEnumerable<Country>>> GetCountryByRegion(string Regn)
+		public async Task<ActionResult<IEnumerable<country>>> GetCountryByRegion(string Regn)
 		{
-			var countries = await _context.Country.Where(x => x.Region == Regn).ToListAsync();
+			var countries = await _context.country.Where(x => x.Region == Regn).ToListAsync();
 
 			if (countries == null)
 			{
@@ -81,9 +81,9 @@ namespace SMDataRetrieval.Controllers
 		// GET: api/CountryByCode
 		//Return country name, total population by Country Code
 		[HttpGet("{CountryCode}")]
-		public async Task<ActionResult<IEnumerable<Country>>> GetCountryByCode(string CountryCode)
+		public async Task<ActionResult<IEnumerable<country>>> GetCountryByCode(string CountryCode)
 		{
-			var countries = await _context.Country.Where(x => x.Code == CountryCode).ToListAsync();
+			var countries = await _context.country.Where(x => x.Code == CountryCode).ToListAsync();
 
 			if (countries == null)
 			{
